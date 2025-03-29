@@ -6,8 +6,8 @@ As a student, it would be wonderful if I can set alarm clocks for certain days i
 ### Controller
 - ATEMEGA328P
 	- [Tutorial - Bare Bone System](https://www.instructables.com/Build-your-own-Arduino-Bare-Bone-System/)
-	- ![[ATmega328-Pinout.png]]
-	- ![[FWIT1HUHYY8J1X8.webp]]
+	- ![](assets/ATmega328-Pinout.png)
+	- ![](assets/FY7AID9J7GGMD65.webp)
 ### Display
  - 1.2" 4-Digit 7-Segment Display w/ I2C Driver
 	 - [Wiring Tutorial](https://learn.adafruit.com/adafruit-led-backpack/1-2-inch-7-segment-backpack-arduino-wiring-and-setup)
@@ -18,11 +18,11 @@ As a student, it would be wonderful if I can set alarm clocks for certain days i
 - DFPlayer Mini
 	- [Datasheet](https://picaxe.com/docs/spe033.pdf)
 	- RX + 1K resistor
-	- ![[Pasted image 20250302153710.png]]
+	- ![](assets/Pasted_image_20250302153710.png)
 - LM386
 	- [Tutorial](https://www.instructables.com/Tales-From-the-Chip-LM386-Audio-Amplifier/)
-	- ![[FY7AID9J7GGMD65.webp]]
-	- ![[F7HMS7DJ7GGMD63.webp]]
+	- ![](assets/FY7AID9J7GGMD65.webp)
+	- ![](assets/F7HMS7DJ7GGMD63.webp)
 	- I don't use the 0.1uf capacitor because for me it creates loud noise somehow
 	- [YouTube - Sound Test at 5V](https://www.youtube.com/watch?v=o19-dUC6S-Y)
 ### Input

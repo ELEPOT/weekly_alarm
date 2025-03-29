@@ -1,6 +1,9 @@
 ## Purpose
 
-As a student, it would be wonderful if I can set alarm clocks for certain days in a week separately, like how I can with alarm apps. There are no alarm clocks like that on the market yet, however, and I also really don't want to have a smartphone in my bedroom to constantly distract me from sleep. Therefore, I deducted that the obvious and only solution is to make a alarm clock myself. This is me planning out and documenting the process of that (project still in progress).
+As a student, it would be wonderful if I can set alarm clocks for certain days in a week separately, like how I can with alarm apps. 
+There are no alarm clocks like that on the market yet, however, and I also really don't want to have a smartphone in my bedroom to constantly distract me from sleep. 
+Therefore, I deducted that the obvious and only solution is to make a alarm clock myself so that no more people will waste their time doing this knowing it's already been done by someone and use phones lying in their homes as a alarm clock instead. 
+This is me planning out and documenting the process of that (project still in progress).
 ## Hardware
 
 ### Controller
@@ -54,4 +57,9 @@ As a student, it would be wonderful if I can set alarm clocks for certain days i
 | Mouser    | Adafruit 1.2" 4-Digit 7-Segment Display w/ I2C Backpack - Yellow #1269   | 630         | [](https://www.mouser.tw/ProductDetail/Adafruit/1269?qs=GURawfaeGuAAbBTnuv6RdQ%3D%3D)                                                                                                     |
 | Mouser    | Adafruit Accessories Thru-hole 5-way Navigation Switch #504              | 70          | [](https://www.mouser.tw/ProductDetail/Adafruit/504?qs=GURawfaeGuDZqvgMgBwIbQ%3D%3D)                                                                                                      |
 | Mouser    | Joysticks Black Rubber Joystick Nubbin Cap for Navigation Joystick #4697 | 18          | [](https://www.mouser.tw/ProductDetail/Adafruit/4697?qs=hWgE7mdIu5RXjf6tuH%2FSXA%3D%3D)                                                                                                   |
+
 \*Can also be bought from the same seller as Ruten
+
+# Contribution
+
+This is a personal project.
